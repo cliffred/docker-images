@@ -1,5 +1,5 @@
 FROM java:8
-MAINTAINER cliffred@cliffred.nl
+MAINTAINER cliffred
 
 ENV ANDROID_SDK_VERSION 24.3.4
 
